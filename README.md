@@ -1,7 +1,7 @@
 # Two-way Sign language translator (TWS)
 
 <p align="center"> 
-     ![ic_launcher](https://user-images.githubusercontent.com/97244341/218291018-809022c5-f068-40f2-9b47-992107880821.png) 
+    <img src=(https://user-images.githubusercontent.com/97244341/218291018-809022c5-f068-40f2-9b47-992107880821.png)>
 </p>
 
 ## A flutter-based android application that translates spoken voice to sign language in the form of gifs.
